@@ -10,7 +10,7 @@ that when we restart the program, the old details are not lost. The program read
 when it restarts to know the previous status of the hotel. Writing of file has been done in a
 separate thread as it can be done parallely. User defined exception is thrown if the user
 tries to book an already allotted room. Exception handling is properly done to deal with any
-kind of unexpected exception.
+kind of unexpected exception.all done.
 ##### Topics Covered-  
 Classes and Objects, Inheritance, File Handling with Objects, ArrayList, implementing
 Interface, User defined exception and Exception handling.
